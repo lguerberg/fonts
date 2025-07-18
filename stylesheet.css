@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Optima LT Std';
-    src: url('OptimaLTStd-Bold.woff2') format('woff2'),
-        url('OptimaLTStd-Bold.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/lguerberg/fonts@eda9e7734c82a6e3a92cf43d4e222e6665e1fcc1/OptimaLTStd-Bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/lguerberg/fonts@eda9e7734c82a6e3a92cf43d4e222e6665e1fcc1/OptimaLTStd-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -9,10 +9,9 @@
 
 @font-face {
     font-family: 'Abril Display';
-    src: url('AbrilDisplay-BoldItalic.woff2') format('woff2'),
-        url('AbrilDisplay-BoldItalic.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/lguerberg/fonts@eda9e7734c82a6e3a92cf43d4e222e6665e1fcc1/AbrilDisplay-BoldItalic.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/lguerberg/fonts@eda9e7734c82a6e3a92cf43d4e222e6665e1fcc1/AbrilDisplay-BoldItalic.woff') format('woff');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
 }
-
